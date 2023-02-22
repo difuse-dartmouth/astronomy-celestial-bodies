@@ -2,7 +2,7 @@
 
 ## Contributors: James Busch (GR), Garrett Scott ('22), Elisabeth Newton (Professor of Physics and Astronomy), Lorie Loeb (Professor of Computer Science, DIFUSE PI)
 
-![DIFUSE Data Science Module.  Astronomy 15: Stars and the Milky Way.  Professor Elisabeth Newton, Dartmouth College.  Funded by NSF IUSE1917002](additional/repository_assets/DIFSUE-ASTR-15.JPG "DIFUSE Data Science Module.  Astronomy 15: Stars and the Milky Way.  Professor Elisabeth Newton, Dartmouth College.  Funded by NSF IUSE1917002")
+![DIFUSE Data Science Module.  Astronomy 15: Stars and the Milky Way.  Professor Elisabeth Newton, Dartmouth College.  Funded by NSF IUSE1917002](additional/repository_assets/DIFSUE-ASTR-15.PNG "DIFUSE Data Science Module.  Astronomy 15: Stars and the Milky Way.  Professor Elisabeth Newton, Dartmouth College.  Funded by NSF IUSE1917002")
 
 This module was developed through the DIFUSE project at Dartmouth College and funded by the National Science Foundation award IUSE-1917002.
 
