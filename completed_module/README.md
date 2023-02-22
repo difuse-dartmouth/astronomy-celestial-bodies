@@ -1,8 +1,29 @@
-## Schedule and Quick Links
+# Astronomy 15: Stars and the Milky Way
 
-Use this page to get an idea of the timeline of the module, what components are involved, and what documents are related to each component. This is the schedule intended for module deployment by the DIFUSE team, though instructors are welcome to modify the timeline to fit their course environment.
+## Primary Objective
 
-| Date             | Class Session | In/Out of Class | Assignment Description                                                                            | Assignment Files (Linked to Repository Contents) |
-|------------------|---------------|-----------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| October 13, 2022 | 1             | In-class        | Gather anthropometric data using Google Form and lab handout.                                     | [Google Form & Sheet](https://github.com/difuse-dartmouth/ANTH06-40_22F/blob/ef63b00948a8603ac2be8cee7c07e0b71015eff7/completed_module/public/components/input_form.md), [Instructor Guide](https://github.com/difuse-dartmouth/ANTH06-40_22F/blob/ef63b00948a8603ac2be8cee7c07e0b71015eff7/completed_module/public/components/Instructor%20Directions.docx)                                                 |
-| October 22, 2022 | 1+            | Out of class    | Using lab handout and deliverables as a guide, produce a typed lab report and submit by 11:59 pm. |                                                  |
+Introduce students to the way Astrophysicists manipulate data and perform analyses in Python with an emphasis on data visualization and plot interpretation.
+
+## Student Expectations
+
+ASTR15 is an introductory course and has no prerequisites, but the instructors observe that about a third of the students will have at least some familiarity with Python/coding.
+
+## Learning Objectives
+1. Actively engage with a coding environment.
+2. Analyze and compare astronomical data about different objects and/or from different observatories.
+3. Interpret data visualizations in the context of course content.
+
+
+
+
+## Module Outline and Timeline
+
+
+| Date             |  In/Out of Class | Assignment Description                                                                            | Assignment Files (Linked to Repository Contents) |
+|------------------|-----------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| Week 1 |  In class    | Introduction to python, using google colab |     [Colab documentation and start-up guide](completed_module/public/components/Google_Colab_Exercise_Documentation.pdf)                                             |
+| Week 1 |  Out of class    | Getting used to colab, looking at data from different observatories | [Assignment 1](completed_module/public/components/assignment1/Problem_Set_1_module.ipynb)                                                 |
+| Week 3 |  Out of class    | The Night Sky | [Assignment 2](completed_module/public/components/assignment2/1-2_Night_Sky_module_v2.ipynb)                                                 |
+| Week 5 |  Out of class    | Orbits and Gravity | [Assignment 3](completed_module/public/components/assignment3/3-2_Orbits_and_Gravity_module.ipynb)                                                 |
+| Week 7 |  Out of class    | Stellar Evolution | [Assignment 4](completed_module/public/components/assignment4/07-01_Stellar_Evolution_Module.ipynb)                                                 |
+| Week 9 |  Out of class    | Hot Jupiters | [Assignment 5](completed_module/public/components/assignment5/09-2_Hot_Jupiters_Module.ipynb)                                                 |
