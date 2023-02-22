@@ -1,0 +1,5 @@
+﻿Telescope,Location,Latitude,Longitude,Diam (m),Type,Elevation (m)
+MDM Observatory (MDM),Arizona,31.95184107,-111.6159476,2.4,Optical,1923
+Very Large Telescope (VLT),Chile,-24.62729763,-70.40437367,8,Optical,2640
+James Gregory Telescope (JGT),Scotland,56.34190734,-2.817186645,0.4,Optical,8
+South Pole Telescope (SPT),South Pole,-90,0,10,Microwave,2771
