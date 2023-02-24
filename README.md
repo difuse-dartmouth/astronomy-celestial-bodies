@@ -2,7 +2,7 @@
 
 ## Contributors: James Busch (GR), Garrett Scott ('22), Elisabeth Newton (Professor of Physics and Astronomy), Lorie Loeb (Professor of Computer Science, DIFUSE PI)
 
-![DIFUSE Data Science Module.  Astronomy 15: Stars and the Milky Way.  Professor Elisabeth Newton, Dartmouth College.  Funded by NSF IUSE1917002](additional/repository_assets/DIFUSE-ASTR-15.png "DIFUSE Data Science Module.  Astronomy 15: Stars and the Milky Way.  Professor Elisabeth Newton, Dartmouth College.  Funded by NSF IUSE1917002")
+![DIFUSE Data Science Module.  Astronomy 15: Stars and the Milky Way.  Professor Elisabeth Newton, Dartmouth College.  Funded by NSF IUSE1917002](repository_assets/DIFUSE-ASTR-15.png "DIFUSE Data Science Module.  Astronomy 15: Stars and the Milky Way.  Professor Elisabeth Newton, Dartmouth College.  Funded by NSF IUSE1917002")
 
 This module was developed through the DIFUSE project at Dartmouth College and funded by the National Science Foundation award IUSE-1917002.
 
@@ -12,7 +12,7 @@ This module was developed through the DIFUSE project at Dartmouth College and fu
 
 Stars and the Milky Way is an introductory astronomy course in the Physics and Astronomy Department.  It is a general introduction to astronomy and assumes no particular student background but instructors expect that about a third of students will have some python or coding background.  The module aims to introduce students to the way Astrophysicists manipulate data and perform analyses with an emphasis on data visualization and plot interpretation.  Students use a sequence of python notebooks to explore, analyze astronomical data.  This module uses python notebooks as its main tool and engages students in data analysis, visualization, and drawing conclusions. 
 
-![Term length module using python and covering analyzing data, visualizing data and drawing conclusions.](additional/repository_assets/ASTR-15-Badge.png "Term length module using python and covering analyzing data, visualizing data and drawing conclusions.")
+![Term length module using python and covering analyzing data, visualizing data and drawing conclusions.](repository_assets/ASTR-15-Badge.png "Term length module using python and covering analyzing data, visualizing data and drawing conclusions.")
 
 ## [Click here for module materials](completed_module/README.md)
 For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/ASTR15_W21/commits/main/).
