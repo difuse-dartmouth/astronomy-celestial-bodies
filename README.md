@@ -14,6 +14,16 @@ Stars and the Milky Way is an introductory astronomy course in the Physics and A
 
 ![Term length module using python and covering analyzing data, visualizing data and drawing conclusions.](additional/repository_assets/ASTR-15-Badge.png "Term length module using python and covering analyzing data, visualizing data and drawing conclusions.")
 
-##### Folder Structure #####
+## [Click here for module materials](completed_module/README.md)
+For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/ASTR15_W21/commits/main/).
+
+## Folder Structure
+
+The folder *completed_module* contains all of the module components.  
+
+The *components* subfolder contains all of the assignments and documentation.
+
+The *data* subfolder contains astronomical data sets used in the module.
+
 
 
