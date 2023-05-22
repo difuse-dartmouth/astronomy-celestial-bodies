@@ -1,4 +1,4 @@
-# Astronomy: Celestial Bodies DIFUSE Data Science Module 
+# Astronomy: Celestial Bodies Data Science Module 
 
 ## Contributors: James Busch (GR), Garrett Scott ('22), Elisabeth Newton (Professor of Physics and Astronomy), Lorie Loeb (Professor of Computer Science, DIFUSE PI)
 
